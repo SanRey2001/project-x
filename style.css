@@ -51,6 +51,12 @@ body {
   padding-bottom: 6px;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 footer {
   clear: both;
   text-align: center;
